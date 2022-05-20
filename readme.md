@@ -1,4 +1,4 @@
-# 定时自动脚本（Github-Actions版）
+# 定时自动脚本（Github-Actions版）forked from [sumowi/Auto_Attendance](https://github.com/sumowi/Auto_Attendance)
 
 **注意**：本master分支版本代码使用Github-Actions定时运行，无需部署在服务器。如需在服务器中运行，请使用service分支中的代码。
 
